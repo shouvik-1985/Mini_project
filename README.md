@@ -9,6 +9,8 @@ for creating virtual environment - "python3 -m venv venv"
 for activating virtual environment - " source venv/bin/activate"
 
 for install the requirements- " pip install -r requirements.txt"
+
+for running backend- "python manage.py runserver"
  
 ##FRONTEND
 1. connect the frontend directory by "cd frontend"
