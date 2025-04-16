@@ -18,3 +18,12 @@ for running backend- "python manage.py runserver"
 3.then start the frontend by "npm start"
 
 
+
+
+--ABOUT THE APP--
+
+1. By default it will open the home page
+2. On the Navbar there are three options Contact Manager , Home, Add contact
+3. Click on the Add Contact to add any users
+4. Click on the Contact manger to edit the users details or delete the user
+5. I have added extra "Add new Contact" button which directly redirect you to the "Add contact" page.
