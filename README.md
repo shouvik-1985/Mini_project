@@ -5,7 +5,9 @@ you need two bash terminals for backend and frontend:
 2. after activating the venv and pip install requirements run this command for backend "python manage.py runserver".
 
 for creating virtual environment - "python3 -m venv venv"
+
 for activating virtual environment - " source venv/bin/activate"
+
 for install the requirements- " pip install -r requirements.txt"
  
 ##FRONTEND
