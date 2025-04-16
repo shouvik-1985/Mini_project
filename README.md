@@ -14,7 +14,9 @@ for running backend- "python manage.py runserver"
  
 ##FRONTEND
 1. connect the frontend directory by "cd frontend"
+
 2. then install the npm by "npm install"
+
 3.then start the frontend by "npm start"
 
 
